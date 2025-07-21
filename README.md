@@ -33,4 +33,4 @@ Aspiring cybersecurity analyst working toward Security+, Network+, A+, and other
 
 ## 📫 Contact
 
-Connect with me on [LinkedIn](www.linkedin.com/in/jenna-hammer-588854217) or check out more of my work on [GitHub](https://github.com/JennaHammer).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/jenna-hammer-588854217/) or check out more of my work on [GitHub](https://github.com/JennaHammer).
